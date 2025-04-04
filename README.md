@@ -1,11 +1,11 @@
 # TP5-Suite -ProjetPersoJavaClass
 
-Ce projet Java contient des classes pour apprendre à manipuler les objets, l'héritage, et les collections (`List`, `Set`, `Map`).
+Ce projet Java contient des classes pour apprendre à manipuler les objets, l'héritage, et la collection (`List`).
 
 ## Objectifs
 
 - Créer des classes comme `Personne`, `Employe`, `Directeur`
-- Utiliser des collections pour stocker et organiser des objets
+- Ajouter une liste d'employés au directeur 
 - Comprendre les principes d'encapsulation et d'héritage en Java
 
 ## Structure du projet
